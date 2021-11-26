@@ -156,8 +156,8 @@ body {
     width: 110%;
     border-radius: 20px;
     max-height: 550px;
-    margin-top: -40px;
-    margin-left: -35px;
+    margin-top: -50px;
+    margin-left: -60px;
 }
 
 /* About Section */
@@ -578,7 +578,7 @@ body {
     }
     
     .header-section .icons {
-        display: none !important;
+        right: 15px;
     }
     
     .header-section .icons-container {
@@ -612,6 +612,11 @@ body {
     .header-section .icons-container:hover .nav-caption {
         display: inline-block;
         margin-right: 1rem;
+    }
+
+    .image-wrapper img {
+        margin-top: -40px;
+        margin-left: -35px;
     }
 
     .about-section h1 {
