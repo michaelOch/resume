@@ -17,7 +17,7 @@ html {
 }
 
 body {
-    font-family: 'Poppins', Helvetica, Arial, sans-serif;
+    font-family: 'Montserrat', sans-serif;
     background: var(--theme-blue-black);
     color: var(--theme-white);
 }
@@ -77,14 +77,14 @@ body {
 } */
 
 .header-section h2 {
-    font-size: 38px;
+    font-size: 36px;
     line-height: 48px;
     margin-bottom: 20px;
 }
 
 .header-section h1 {
     font-weight: 900;
-    font-size: 48px;
+    font-size: 46px;
     line-height: 54px;
     margin-bottom: 20px;
 }
@@ -94,7 +94,7 @@ body {
 }
 
 .header-section p {
-    font-size: 22px;
+    font-size: 20px;
     line-height: 30px;
     margin-bottom: 50px;
 }
@@ -115,7 +115,7 @@ body {
 }
 
 .header-section .icons-container a {
-    font-size: 16px;
+    font-size: 14px;
     color: var(--theme-white);
     text-decoration: none;
 }
@@ -125,7 +125,7 @@ body {
 }
 
 .header-section .icons-container a > i {
-    font-size: 32px;
+    font-size: 30px;
     color: var(--theme-blue-black);
 }
 
@@ -168,7 +168,7 @@ body {
 
 .about-section h1 {
     font-weight: 900;
-    font-size: 140px;
+    font-size: 136px;
     line-height: 152px;
     color: var(--theme-blue-black-light);
 }
@@ -179,7 +179,7 @@ body {
     left: 0;
     right: 0;
     font-weight: 900;
-    font-size: 70px;
+    font-size: 66px;
     line-height: 76px;
 }
 
@@ -202,20 +202,20 @@ body {
 }
 
 .about-section h3 {
-    font-size: 40px;
+    font-size: 36px;
     line-height: 48px;
     margin-top: 30px;
     margin-bottom: 50px;
 }
 
 .about-section label {
-    font-size: 25px;
+    font-size: 22px;
     line-height: 30px;
     color: var(--theme-gray);
 }
 
 .about-section p {
-    font-size: 25px;
+    font-size: 22px;
     line-height: 30px;
 }
 
@@ -236,7 +236,7 @@ body {
 
 .about-section h4 {
     font-weight: 900;
-    font-size: 70px;
+    font-size: 66px;
     line-height: 76px;
     color: var(--theme-red);
 }
@@ -247,7 +247,7 @@ body {
 }
 
 .about-section .count-section .card span {
-    font-size: 25px;
+    font-size: 22px;
     line-height: 30px;
     word-wrap: break-word;
 }
@@ -255,7 +255,7 @@ body {
 /* Experience Section */
 
 .experience-section h2 {
-    font-size: 25px;
+    font-size: 22px;
     line-height: 30px;
     margin-bottom: 50px;
 }
@@ -268,7 +268,7 @@ body {
 }
 
 .experience-section h5 {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 22px;
     letter-spacing: 0.08em;
     text-transform: uppercase;
@@ -277,7 +277,7 @@ body {
 .experience-section h6 {
     margin-top: 30px;
     margin-bottom: 13px;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 22px;
     letter-spacing: 0.08em;
     text-transform: uppercase;
@@ -286,7 +286,7 @@ body {
 .experience-section h3 {
     /* margin-top: 30px;
     margin-bottom: 13px; */
-    font-size: 18px;
+    font-size: 16px;
     line-height: 22px;
     letter-spacing: 0.08em;
 }
@@ -302,7 +302,7 @@ body {
 }
 
 .experience-section .icon-container i {
-    font-size: 30px;
+    font-size: 28px;
 }
 
 .experience-section .vertical-line {
@@ -328,7 +328,7 @@ body {
 
 .portfolio-section h1 {
     font-weight: 900;
-    font-size: 140px;
+    font-size: 136px;
     line-height: 152px;
     color: var(--theme-blue-black-light);
 }
@@ -339,7 +339,7 @@ body {
     left: 0;
     right: 0;
     font-weight: 900;
-    font-size: 70px;
+    font-size: 66px;
     line-height: 76px;
 }
 
@@ -370,7 +370,7 @@ body {
     left: 0;
     right: 0;
     font-weight: 900;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 22px;
     display: none;
 }
@@ -439,7 +439,7 @@ body {
 
 .contact-section h1 {
     font-weight: 900;
-    font-size: 140px;
+    font-size: 136px;
     line-height: 152px;
     color: var(--theme-blue-black-light);
     margin-bottom: 50px;
@@ -451,7 +451,7 @@ body {
     left: 0;
     right: 0;
     font-weight: 900;
-    font-size: 70px;
+    font-size: 66px;
     line-height: 76px;
 }
 
@@ -460,24 +460,24 @@ body {
 }
 
 .contact-section h3 {
-    font-size: 25px;
+    font-size: 22px;
     line-height: 30px;
     margin-bottom: 20px;
 }
 
 .contact-section h4 {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 22px;
     letter-spacing: 0.08em;
 }
 
 .contact-section p {
-    font-size: 20px;
+    font-size: 18px;
     line-height: 24px;
 }
 
 .contact-section i {
-    font-size: 40px;
+    font-size: 36px;
     color: var(--theme-red);
 }
 
@@ -489,7 +489,7 @@ body {
 }
 
 .contact-section .social-media-container i {
-    font-size: 24px;
+    font-size: 22px;
     color: var(--theme-white);
 }
 
@@ -498,7 +498,7 @@ body {
     color: var(--theme-white) !important;
     border: none;
     border-radius: 108px;
-    font-size: 21px;
+    font-size: 19px;
     line-height: 25px;
     padding: 17px 24px;
 }
@@ -526,7 +526,7 @@ body {
 
 .footer-section h1 {
     font-weight: 900;
-    font-size: 70px;
+    font-size: 66px;
     line-height: 76px;
     letter-spacing: 0.08em;
     text-transform: uppercase;
@@ -534,7 +534,7 @@ body {
 }
 
 .footer-section p {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 22px;
     letter-spacing: 0.08em;
     text-transform: uppercase;
@@ -557,7 +557,7 @@ body {
     right: 0;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 992px) {
     .mobile-hide, .rect-1 {
         display: none;
     }
@@ -646,9 +646,9 @@ body {
         margin-top: 2rem;
     }
 
-    .about-section .display-box {
+    /* .about-section .display-box {
         display: none;
-    }
+    } */
 
     .experience-section h2 {
         font-size: 18px;
@@ -735,5 +735,28 @@ body {
         bottom: 5px;
         left: 0;
         right: 0;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .header-section {
+        padding-top: 0px !important;
+    }
+    
+    .image-wrapper {
+        width: 100%;
+        max-height: 350px;
+        border: 5px solid var(--theme-red);
+        border-radius: 100%;
+        box-sizing: border-box;
+        margin: 0 auto;
+    }
+    
+    .image-wrapper img {
+        width: 100%;
+        border-radius: 100%;
+        max-height: 340px;
+        margin-top: 0;
+        margin-left: 0;
     }
 }
